@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "test",
+    "slug": "test",
+    "customStyles": {},
+    "id": "e6a451ec-b36f-482e-bf63-5c297452e560",
+    "userId": "5fc126a0-6e54-4e06-90cc-d875933d649a",
+    "createdAt": "2026-08-19T21:53:05.128Z",
+    "logo_url": "",
+    "campaign_name": "",
+    "cover_image_url": "",
+    "bonuses": [],
+    "privacy_policy_url": "",
+    "client_name": "",
+    "client_logo_url": ""
+  }
+]
