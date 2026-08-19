@@ -73,5 +73,20 @@
     "privacy_policy_url": "",
     "client_name": "",
     "client_logo_url": ""
+  },
+  {
+    "name": "кук",
+    "slug": "куку",
+    "customStyles": {},
+    "id": "5a01dbcb-511b-487d-8356-aa312406f29e",
+    "userId": "5fc126a0-6e54-4e06-90cc-d875933d649a",
+    "createdAt": "2026-08-19T22:11:44.710Z",
+    "logo_url": "",
+    "campaign_name": "",
+    "cover_image_url": "",
+    "bonuses": [],
+    "privacy_policy_url": "",
+    "client_name": "",
+    "client_logo_url": ""
   }
 ]
