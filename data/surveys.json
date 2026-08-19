@@ -13,5 +13,20 @@
     "privacy_policy_url": "",
     "client_name": "",
     "client_logo_url": ""
+  },
+  {
+    "name": "test1",
+    "slug": "test1",
+    "customStyles": {},
+    "id": "81008d3f-acc8-4053-978c-d346592d00b8",
+    "userId": "5fc126a0-6e54-4e06-90cc-d875933d649a",
+    "createdAt": "2026-08-19T21:56:24.302Z",
+    "logo_url": "",
+    "campaign_name": "",
+    "cover_image_url": "",
+    "bonuses": [],
+    "privacy_policy_url": "",
+    "client_name": "",
+    "client_logo_url": ""
   }
 ]
