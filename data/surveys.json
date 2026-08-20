@@ -8,11 +8,12 @@
     "createdAt": "2026-08-19T21:56:24.302Z",
     "logo_url": "",
     "campaign_name": "",
-    "cover_image_url": "",
+    "cover_image_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787217202757-7lzypj.jpeg",
     "bonuses": [],
     "privacy_policy_url": "",
     "client_name": "",
-    "client_logo_url": ""
+    "client_logo_url": "",
+    "custom_styles": {}
   },
   {
     "name": "test1",
