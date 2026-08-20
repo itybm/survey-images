@@ -10,5 +10,11 @@
     "email": "it@ybm.agency",
     "passwordHash": "$2a$10$e1i0BCuVuMKCABzN7siLyeme0IF2k1B8KdPYDZd2tXzOYl08bfK/6",
     "createdAt": "2026-08-19T21:47:44.701Z"
+  },
+  {
+    "id": "42cc7214-5e1e-45c3-9f1e-e7bff0e617a1",
+    "email": "jullstarget@gmail.com",
+    "passwordHash": "$2a$10$tIO4j6004yTDTKtLAF5cheb1eZJMIDTXaVGAvhWNkFSSsWUpMqIJO",
+    "createdAt": "2026-08-20T09:01:55.120Z"
   }
 ]
