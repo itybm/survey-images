@@ -87,7 +87,32 @@
     "id": "cd0f2364-80db-4775-a9f5-1b05bebab971",
     "survey_id": "81008d3f-acc8-4053-978c-d346592d00b8",
     "created_at": "2026-08-23T09:18:39.957Z",
-    "completed_at": null,
-    "behaviour": []
+    "completed_at": "2026-08-23T09:19:34.166Z",
+    "behaviour": [
+      {
+        "type": "view_question",
+        "timestamp": 1787476720858,
+        "questionId": "acdec010-85e5-4999-bc0f-0e583db32239"
+      },
+      {
+        "type": "start_session",
+        "timestamp": 1787476720888
+      },
+      {
+        "type": "answer",
+        "timestamp": 1787476725213,
+        "questionId": "acdec010-85e5-4999-bc0f-0e583db32239"
+      },
+      {
+        "type": "time_spent",
+        "timestamp": 1787476729469,
+        "questionId": "acdec010-85e5-4999-bc0f-0e583db32239",
+        "ms": 8612
+      },
+      {
+        "type": "view_form",
+        "timestamp": 1787476729469
+      }
+    ]
   }
 ]
