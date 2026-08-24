@@ -89,5 +89,20 @@
     "privacy_policy_url": "",
     "client_name": "",
     "client_logo_url": ""
+  },
+  {
+    "name": "wwrr",
+    "slug": "www",
+    "customStyles": {},
+    "id": "2000dcb2-7d21-41ed-92d7-34131b4c9cfd",
+    "userId": "7591e880-abd6-4dc0-9926-9a9bebee94e9",
+    "createdAt": "2026-08-24T22:05:35.211Z",
+    "logo_url": "",
+    "campaign_name": "",
+    "cover_image_url": "",
+    "bonuses": [],
+    "privacy_policy_url": "",
+    "client_name": "",
+    "client_logo_url": ""
   }
 ]
