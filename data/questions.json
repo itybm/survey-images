@@ -126,5 +126,26 @@
     "display_type": "text_only",
     "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
     "id": "58af0d04-df5b-4d71-91fc-f4c3de40a077"
+  },
+  {
+    "text": "What investment range are you considering for your kitchen project?",
+    "type": "radio",
+    "options": [
+      "$5,000 – $10,000",
+      "$10,000 – $15,000",
+      "$15,000 – $20,000",
+      "$20,000+"
+    ],
+    "order_index": 6,
+    "image_url": null,
+    "options_images": {
+      "$5,000 – $10,000": "",
+      "$10,000 – $15,000": "",
+      "$15,000 – $20,000": "",
+      "$20,000+": ""
+    },
+    "display_type": "text_only",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "id": "1c060b16-889e-4ee1-aedd-f57252316621"
   }
 ]
