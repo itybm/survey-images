@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "text": "Which cabinet style do you prefer?",
+    "type": "radio",
+    "options": [
+      "Shaker",
+      "Flat panel",
+      "Not sure yet"
+    ],
+    "order_index": 0,
+    "image_url": null,
+    "options_images": {
+      "Shaker": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787683903812-0l54fu.png",
+      "Flat panel": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787683943576-u90mnu.png",
+      "Not sure yet": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787683982400-znpwoo.png"
+    },
+    "display_type": "image_text",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "id": "9e0fe08b-c25e-4d5d-af79-6be87784d45b"
+  }
+]
