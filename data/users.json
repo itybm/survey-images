@@ -16,5 +16,11 @@
     "email": "jullstarget@gmail.com",
     "passwordHash": "$2a$10$tIO4j6004yTDTKtLAF5cheb1eZJMIDTXaVGAvhWNkFSSsWUpMqIJO",
     "createdAt": "2026-08-20T09:01:55.120Z"
+  },
+  {
+    "id": "cfbb22c4-f12a-4bc1-83ff-a804b50b302c",
+    "email": "nastia.verbuch18@gmail.com",
+    "passwordHash": "$2a$10$DAM9zFACHSb45LtPEplswOJqdz0iUDXjHHImVBQAMrW86cNHx1DCO",
+    "createdAt": "2026-08-25T19:22:04.349Z"
   }
 ]
