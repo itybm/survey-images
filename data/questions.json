@@ -84,5 +84,26 @@
     "display_type": "image_text",
     "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
     "id": "8e61181c-53be-423f-bd8e-38c8f0521d02"
+  },
+  {
+    "text": "What type of project are you planning?",
+    "type": "radio",
+    "options": [
+      "Full kitchen remodel",
+      "Cabinet replacement",
+      "New construction kitchen",
+      "Small upgrade"
+    ],
+    "order_index": 4,
+    "image_url": null,
+    "options_images": {
+      "Full kitchen remodel": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684550175-swr6sk.png",
+      "Cabinet replacement": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684585937-ju6g1m.png",
+      "New construction kitchen": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684606773-qkohlq.png",
+      "Small upgrade": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684628101-il4e0l.png"
+    },
+    "display_type": "image_text",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "id": "b8fde8c6-e831-4136-874a-d73fad28af59"
   }
 ]
