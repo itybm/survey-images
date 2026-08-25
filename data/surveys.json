@@ -89,5 +89,32 @@
     "privacy_policy_url": "",
     "client_name": "",
     "client_logo_url": ""
+  },
+  {
+    "name": "dddd",
+    "slug": "342",
+    "customStyles": {},
+    "id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
+    "userId": "5fc126a0-6e54-4e06-90cc-d875933d649a",
+    "createdAt": "2026-08-25T17:56:10.061Z",
+    "logo_url": "",
+    "campaign_name": "",
+    "cover_image_url": "",
+    "bonuses": [],
+    "privacy_policy_url": "",
+    "client_name": "",
+    "client_logo_url": "",
+    "description": "",
+    "final_title": "",
+    "final_description": "",
+    "button_start_text": "",
+    "button_next_text": "",
+    "button_back_text": "",
+    "button_submit_text": "",
+    "field_name_label": "",
+    "field_phone_label": "",
+    "field_email_label": "",
+    "field_zip_label": "",
+    "privacy_text": ""
   }
 ]
