@@ -176,5 +176,12 @@
         "timestamp": 1787681691376
       }
     ]
+  },
+  {
+    "id": "2504de14-7b69-44f0-8ff8-236cef3f8aec",
+    "survey_id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
+    "created_at": "2026-08-25T18:18:12.639Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
