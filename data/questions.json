@@ -31,5 +31,19 @@
     "survey_id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
     "id": "c4b51c0b-49a1-4c85-a955-e4440a03e5a0",
     "display_type": "image_text"
+  },
+  {
+    "text": "New question",
+    "type": "radio",
+    "options": [
+      "Option 1",
+      "Option 2"
+    ],
+    "order_index": 1,
+    "image_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787681537466-qvn28u.jpg",
+    "options_images": {},
+    "display_type": "text_only",
+    "survey_id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
+    "id": "38e2164c-75a3-41d8-8e40-79f5ede33a40"
   }
 ]
