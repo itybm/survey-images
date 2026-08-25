@@ -63,5 +63,26 @@
     "display_type": "image_text",
     "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
     "id": "b53b86df-ed01-4b02-9cf7-003b335f050f"
+  },
+  {
+    "text": "What type of countertop do you prefer?",
+    "type": "radio",
+    "options": [
+      "Quartz",
+      "Granite",
+      "Marble",
+      "Not sure yet"
+    ],
+    "order_index": 3,
+    "image_url": null,
+    "options_images": {
+      "Quartz": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684424731-a6up3h.png",
+      "Granite": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684445202-8gucn2.png",
+      "Marble": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684473254-sl9cln.png",
+      "Not sure yet": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684451698-g7yo01.png"
+    },
+    "display_type": "image_text",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "id": "8e61181c-53be-423f-bd8e-38c8f0521d02"
   }
 ]
