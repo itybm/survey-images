@@ -97,14 +97,17 @@
     "id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
     "userId": "5fc126a0-6e54-4e06-90cc-d875933d649a",
     "createdAt": "2026-08-25T17:56:10.061Z",
-    "logo_url": "",
-    "campaign_name": "",
-    "cover_image_url": "",
-    "bonuses": [],
+    "logo_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787681484436-atg0hs.svg",
+    "campaign_name": "test",
+    "cover_image_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787681495730-w5a596.png",
+    "bonuses": [
+      "Bonus 1",
+      "Bonus 2"
+    ],
     "privacy_policy_url": "",
-    "client_name": "",
-    "client_logo_url": "",
-    "description": "",
+    "client_name": "test",
+    "client_logo_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787681443307-pnhp4p.jpg",
+    "description": "test",
     "final_title": "",
     "final_description": "",
     "button_start_text": "",
@@ -116,6 +119,13 @@
     "field_email_label": "",
     "field_zip_label": "",
     "privacy_text": "",
-    "custom_styles": {}
+    "custom_styles": {},
+    "show_zip": true,
+    "required_name": true,
+    "required_phone": true,
+    "required_email": true,
+    "required_zip": false,
+    "show_labels": true,
+    "phone_mask": "+1 (###) ###-####"
   }
 ]
