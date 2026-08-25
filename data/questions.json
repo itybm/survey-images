@@ -29,6 +29,7 @@
       "Option 2": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787680626231-tgu88y.jpg"
     },
     "survey_id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
-    "id": "c4b51c0b-49a1-4c85-a955-e4440a03e5a0"
+    "id": "c4b51c0b-49a1-4c85-a955-e4440a03e5a0",
+    "display_type": "image_text"
   }
 ]
