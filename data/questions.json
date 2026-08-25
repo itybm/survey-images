@@ -17,5 +17,26 @@
     "display_type": "image_text",
     "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
     "id": "9e0fe08b-c25e-4d5d-af79-6be87784d45b"
+  },
+  {
+    "text": "What type of kitchen layout do you need?",
+    "type": "radio",
+    "options": [
+      "Straight (one-wall)",
+      "L-shaped",
+      "U-shaped",
+      "Not sure yet"
+    ],
+    "order_index": 1,
+    "image_url": null,
+    "options_images": {
+      "Straight (one-wall)": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684081198-h1kkt1.png",
+      "L-shaped": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684109868-r2gkww.png",
+      "U-shaped": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684138001-24pthc.png",
+      "Not sure yet": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684052129-6bj16u.png"
+    },
+    "display_type": "image_text",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "id": "0a5d7940-ab58-452d-85c1-728830da779d"
   }
 ]
