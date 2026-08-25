@@ -14,5 +14,21 @@
     },
     "survey_id": "81008d3f-acc8-4053-978c-d346592d00b8",
     "id": "acdec010-85e5-4999-bc0f-0e583db32239"
+  },
+  {
+    "text": "New question",
+    "type": "radio",
+    "options": [
+      "Option 1",
+      "Option 2"
+    ],
+    "order_index": 0,
+    "image_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787680642074-uo9m29.jpg",
+    "options_images": {
+      "Option 1": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787680615617-kuc1d5.jpg",
+      "Option 2": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787680626231-tgu88y.jpg"
+    },
+    "survey_id": "b89ad2f9-738d-4db9-9ae4-6842880149a2",
+    "id": "c4b51c0b-49a1-4c85-a955-e4440a03e5a0"
   }
 ]
