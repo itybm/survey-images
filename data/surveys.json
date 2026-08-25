@@ -115,6 +115,7 @@
     "field_phone_label": "",
     "field_email_label": "",
     "field_zip_label": "",
-    "privacy_text": ""
+    "privacy_text": "",
+    "custom_styles": {}
   }
 ]
