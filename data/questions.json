@@ -38,5 +38,30 @@
     "display_type": "image_text",
     "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
     "id": "0a5d7940-ab58-452d-85c1-728830da779d"
+  },
+  {
+    "text": "What cabinet color do you like most?",
+    "type": "radio",
+    "options": [
+      "White / Off-white",
+      "Navy Blue",
+      "Gray",
+      "Natural Wood",
+      "Dark / Black",
+      "Not sure yet"
+    ],
+    "order_index": 2,
+    "image_url": null,
+    "options_images": {
+      "White / Off-white": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684260767-1osrj9.png",
+      "Navy Blue": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684280224-uatf6o.png",
+      "Gray": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684300575-9azadb.png",
+      "Natural Wood": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684323751-9agaui.png",
+      "Dark / Black": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684344560-9j2cbk.png",
+      "Not sure yet": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787684234822-bs3x95.png"
+    },
+    "display_type": "image_text",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "id": "b53b86df-ed01-4b02-9cf7-003b335f050f"
   }
 ]
