@@ -7,22 +7,6 @@
       "Option 2"
     ],
     "order_index": 0,
-    "image_url": null,
-    "options_images": {
-      "Option 1": "1",
-      "Option 2": "W"
-    },
-    "survey_id": "81008d3f-acc8-4053-978c-d346592d00b8",
-    "id": "acdec010-85e5-4999-bc0f-0e583db32239"
-  },
-  {
-    "text": "New question",
-    "type": "radio",
-    "options": [
-      "Option 1",
-      "Option 2"
-    ],
-    "order_index": 0,
     "image_url": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787680642074-uo9m29.jpg",
     "options_images": {
       "Option 1": "https://cdn.jsdelivr.net/gh/itybm/survey-images@main/uploads/1787680615617-kuc1d5.jpg",
