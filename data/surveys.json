@@ -1,20 +1,5 @@
 [
   {
-    "name": "test1",
-    "slug": "test1",
-    "customStyles": {},
-    "id": "02e1eb02-c8b7-4ad7-8754-d0712fcafdb6",
-    "userId": "5fc126a0-6e54-4e06-90cc-d875933d649a",
-    "createdAt": "2026-08-19T21:56:25.831Z",
-    "logo_url": "",
-    "campaign_name": "",
-    "cover_image_url": "",
-    "bonuses": [],
-    "privacy_policy_url": "",
-    "client_name": "",
-    "client_logo_url": ""
-  },
-  {
     "name": "test2",
     "slug": "test1",
     "customStyles": {},
