@@ -292,5 +292,11 @@
     "question_id": "1c060b16-889e-4ee1-aedd-f57252316621",
     "answer_value": "$10,000 – $15,000",
     "id": "9894d28e-9ec5-4a64-9b03-f721b7d0f5da"
+  },
+  {
+    "session_id": "b77ee6ca-3ef2-403a-bf1d-327e3217c95a",
+    "question_id": "9e0fe08b-c25e-4d5d-af79-6be87784d45b",
+    "answer_value": "Flat panel",
+    "id": "aacd8b17-4473-421b-a031-ea8d6175616a"
   }
 ]
