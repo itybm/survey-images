@@ -1382,5 +1382,12 @@
         "timestamp": 1789054770791
       }
     ]
+  },
+  {
+    "id": "0b1f3e30-e0b5-4248-8da5-d1e33f13a833",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T15:40:10.545Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
