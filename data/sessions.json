@@ -1616,5 +1616,12 @@
     "created_at": "2026-09-10T16:00:41.554Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "a0428556-ae14-4932-9e04-5af88a3780ae",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T16:00:46.586Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
