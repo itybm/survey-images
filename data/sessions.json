@@ -1966,5 +1966,12 @@
     "created_at": "2026-09-10T16:12:52.265Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "f2fd7df4-745f-46fd-ac81-45ad9e9a880f",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T16:12:55.374Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
