@@ -1424,5 +1424,12 @@
     "created_at": "2026-09-10T15:46:05.651Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "afe7b97a-b76a-49d8-a481-2cb24cbc6ea1",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T15:46:29.365Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
