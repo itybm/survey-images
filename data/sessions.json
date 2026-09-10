@@ -1973,5 +1973,12 @@
     "created_at": "2026-09-10T16:12:55.374Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "138ddff9-08f7-4865-8d68-efa7bf794ac6",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T16:13:08.355Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
