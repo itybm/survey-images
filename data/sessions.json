@@ -1389,5 +1389,12 @@
     "created_at": "2026-09-10T15:40:10.545Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "8e445c6e-cde9-41f9-9f89-532302522f93",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T15:42:21.569Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
