@@ -2322,5 +2322,12 @@
     "created_at": "2026-09-10T19:34:45.495Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "b53c8e82-3c00-45d4-9db8-968f017d9c78",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T20:10:44.813Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
