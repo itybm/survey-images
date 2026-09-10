@@ -1952,5 +1952,12 @@
     "created_at": "2026-09-10T16:12:46.899Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "02da8a88-e8f5-4ef2-83a2-ad35e00024c7",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T16:12:48.485Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
