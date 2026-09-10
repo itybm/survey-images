@@ -1980,5 +1980,12 @@
     "created_at": "2026-09-10T16:13:08.355Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "9cc15c12-d212-4f7c-9985-781e2a342f8d",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-09-10T16:13:12.662Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
