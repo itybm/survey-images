@@ -490,5 +490,11 @@
     "question_id": "1c060b16-889e-4ee1-aedd-f57252316621",
     "answer_value": "$20,000+",
     "id": "350bd4c2-1dae-4f49-9e53-28fc28f9dbc8"
+  },
+  {
+    "session_id": "f9ca902f-442d-4473-b1af-d414d343856f",
+    "question_id": "9e0fe08b-c25e-4d5d-af79-6be87784d45b",
+    "answer_value": "Flat panel",
+    "id": "6c58f4c4-acf2-4121-b436-3506d907e935"
   }
 ]
