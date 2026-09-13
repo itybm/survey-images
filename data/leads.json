@@ -158,5 +158,16 @@
     "privacy_consent": true,
     "offer_name": "",
     "id": "941eb653-7321-49c7-9da8-2ec331e48774"
+  },
+  {
+    "session_id": "f9ca902f-442d-4473-b1af-d414d343856f",
+    "name": "Test",
+    "phone": "+1 (111) 111-7869",
+    "email": "test@test.ru",
+    "zip": "12345",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "privacy_consent": true,
+    "offer_name": "",
+    "id": "1fdde100-ab30-4981-bd11-75a78b2f2bf3"
   }
 ]
