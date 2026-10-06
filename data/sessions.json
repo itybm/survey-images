@@ -3483,5 +3483,12 @@
     "created_at": "2026-10-06T16:34:24.935Z",
     "completed_at": null,
     "behaviour": []
+  },
+  {
+    "id": "334e8fa6-6d6b-449a-b982-5adb809db158",
+    "survey_id": "c27710f2-ed31-45b9-b701-00ed34ac9a27",
+    "created_at": "2026-10-06T16:34:31.823Z",
+    "completed_at": null,
+    "behaviour": []
   }
 ]
